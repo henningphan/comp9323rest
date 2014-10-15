@@ -31,5 +31,26 @@
   		<artifactId>jersey-bundle</artifactId>
   		<version>1.18.1</version>
   	</dependency>
+  	<dependency>
+  		<groupId>com.google.api-client</groupId>
+  		<artifactId>google-api-client</artifactId>
+  		<version>1.19.0</version>
+  	</dependency>
+  	<dependency>
+		<groupId>com.stormpath.sdk</groupId>
+		<artifactId>stormpath-sdk-api</artifactId>
+		<version>1.0.RC2</version>
+	</dependency>
+  	
+  	<dependency>
+  		<groupId>com.google.apis</groupId>
+  		<artifactId>google-api-services-drive</artifactId>
+  		<version>v2-rev143-1.19.0</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>com.google.apis</groupId>
+  		<artifactId>google-api-services-oauth2</artifactId>
+  		<version>v2-rev78-1.19.0</version>
+  	</dependency>
   </dependencies>
 </project>
